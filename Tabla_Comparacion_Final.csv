@@ -1,0 +1,9 @@
+"Departamento","Modelo","AIC","BIC","LogLik","Ranking"
+"AREQUIPA","Binomial_Negativa",689.06,735.81,-334.53,1
+"AREQUIPA","ZINB",691.06,742.48,-334.53,2
+"AREQUIPA","ZIP",736.35,783.09,-358.17,3
+"AREQUIPA","Poisson",839.48,881.55,-410.74,4
+"LIMA","Binomial_Negativa",1164.54,1218.02,-572.27,1
+"LIMA","ZINB",1166.54,1225.37,-572.27,2
+"LIMA","ZIP",1309.54,1363.02,-644.77,3
+"LIMA","Poisson",1348.95,1397.08,-665.47,4
